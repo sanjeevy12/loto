@@ -1,0 +1,2 @@
+# loto
+ai project
